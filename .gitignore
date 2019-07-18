@@ -58,3 +58,4 @@ tramp
 # cask packages
 .cask/
 
+coverage.out
